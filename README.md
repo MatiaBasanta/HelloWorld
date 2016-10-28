@@ -1,4 +1,6 @@
 # HelloWorld
 My First Repository
-Hi, This is my first repository in Git. Hope you like it.
+
+Hi, This is my first repository in Git.
+
 Thanks
